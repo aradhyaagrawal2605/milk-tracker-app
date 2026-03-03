@@ -1,5 +1,5 @@
 # milk-tracker-app
-vibe coded a milk tracking app to help my mom
+vibe coded a milk tracking app to help my mom, after failing to find a similar app on playstore.
 
 ## Features
 - Track milk received, payment given to the milkman, and calculate the total amount due.
